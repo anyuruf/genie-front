@@ -1,0 +1,34 @@
+{
+  "genieGatewayApp": {
+    "childrenByMother": {
+      "home": {
+        "title": "Children By Mothers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Children By Mother",
+        "createOrEditLabel": "Create or edit a Children By Mother",
+        "notFound": "No Children By Mothers found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Children By Mother {{ id }}?"
+      },
+      "detail": {
+        "title": "Children By Mother"
+      },
+      "id": "ID",
+      "motherId": "Mother Id",
+      "childId": "Child Id",
+      "fatherId": "Father Id",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "gender": "Gender",
+      "dob": "Dob"
+    }
+  },
+  "genieMemberApp": {
+    "childrenByMother": {
+      "created": "A new Children By Mother is created with identifier {{ param }}",
+      "updated": "A Children By Mother is updated with identifier {{ param }}",
+      "deleted": "A Children By Mother is deleted with identifier {{ param }}"
+    }
+  }
+}

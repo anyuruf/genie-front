@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "applications": {
+      "genie_member": {}
+    },
+    "authenticationType": "oauth2",
+    "baseName": "genie_gateway",
+    "buildTool": "maven",
+    "clientFramework": "react",
+    "creationTimestamp": 1703629085272,
+    "entities": ["User", "Member", "ChildrenByFather", "ChildrenByMother"],
+    "jhipsterVersion": "9.4.0",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1703629265000,
+    "nativeLanguage": "en",
+    "packageName": "net.genie.gateway",
+    "prodDatabaseType": "postgresql",
+    "reactive": true,
+    "skipServer": true
+  }
+}

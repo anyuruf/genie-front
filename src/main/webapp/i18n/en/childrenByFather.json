@@ -1,0 +1,34 @@
+{
+  "genieGatewayApp": {
+    "childrenByFather": {
+      "home": {
+        "title": "Children By Fathers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Children By Father",
+        "createOrEditLabel": "Create or edit a Children By Father",
+        "notFound": "No Children By Fathers found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Children By Father {{ id }}?"
+      },
+      "detail": {
+        "title": "Children By Father"
+      },
+      "id": "ID",
+      "fatherId": "Father Id",
+      "childId": "Child Id",
+      "motherId": "Mother Id",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "gender": "Gender",
+      "dob": "Dob"
+    }
+  },
+  "genieMemberApp": {
+    "childrenByFather": {
+      "created": "A new Children By Father is created with identifier {{ param }}",
+      "updated": "A Children By Father is updated with identifier {{ param }}",
+      "deleted": "A Children By Father is deleted with identifier {{ param }}"
+    }
+  }
+}
