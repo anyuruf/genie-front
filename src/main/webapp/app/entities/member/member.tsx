@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Button, Table } from 'react-bootstrap';
 import { Translate, getPaginationState } from 'react-jhipster';
 import { Link, useLocation } from 'react-router';
